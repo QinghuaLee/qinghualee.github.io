@@ -1,0 +1,6 @@
+Qinghua Li and Jie Shan, 2021, Georeferencing of Airborne Full-Waveform LiDAR Data Using Digital Elevation Model, Photogrammetric Engineering & Remote Sensing, 87(1):43-52.
+Qinghua Li, Yuchi Ma, John Anderson, James Curry, and Jie Shan, 2019, Towards Uniform Point Density: Evaluation of an Adaptive Terrestrial Laser Scanner, Remote Sensing, 11(7), 880.  
+Yue Li, Qinghua Li, and Jie Shan, 2017, Discover Patterns and Mobility of Twitter Users – A Study of Four U.S. College Cities, ISPRS International Journal of Geo-Information, 6(2),42.
+Qinghua Li, Serkan Ural, John Anderson, and Jie Shan, 2016, A Fuzzy Mean-Shift Approach to LiDAR Waveform Decomposition, IEEE Transactions on Geoscience and Remote Sensing, 54(12), pp. 7112 – 7121.
+Qinghua Li, John Degnan, Terence Barret, and Jie Shan, 2016, First Evaluation on Single Photon-Sensitive LiDAR Data, Photogrammetric Engineering & Remote Sensing, 82(7), pp. 455-463.
+Ningning Kong, Qinghua Li, Nikhil Sangwan, Robert Kulzick, Sorin Matei, and Kartik Ariyur, 2016, An Interdisciplinary Approach for a Water Sustainability Study, Papers of Applied Geography, 2(2), pp. 189-200.
